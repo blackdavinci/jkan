@@ -6,7 +6,11 @@
   color: white !important;
 }
 .navbar-default .navbar-nav>li>a{
-  color: white !important;
+  color: #fff;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #026e50;
+    background-color: #fff;
 }
 
 @media (min-width: 768px){
