@@ -1,17 +1,3 @@
-.navbar-default {
-  background-color: #026e50 !important;
-  border-color: #026e50 !important;
-}
-.navbar-default .navbar-brand {
-  color: white !important;
-}
-
-@media (min-width: 768px)
-.navbar {
-  border-radius: 0px !important;
-}
-
------------------------------------------------------ MAIN CSS ------------------------------------
 .organization-thumbnail img {
   width: 64px;
 }
