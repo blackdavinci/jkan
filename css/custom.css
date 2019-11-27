@@ -14,3 +14,8 @@
   border-radius: 0px !important;
  }
 }
+.btn-primary {
+    color: #fff;
+    background-color: #026e50 !important;
+    border-color: #026e50 !important;
+}
